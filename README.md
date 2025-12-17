@@ -9,6 +9,7 @@ This repo consists of collected materials for a preliminary deep learning approa
 | 2 | PyTorch Coding | [Webpage](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) | N/A |
 | 3 | TensorFlow Coding | [Webpage](https://www.tensorflow.org/tutorials) | N/A |
 | 4 | t-SNE Visualization | [Paper](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) | [Code](https://github.com/shivanichander/tSNE) |
+| 5| Augmentation | N/A | [Jetcolor](https://github.com/TheZino/PlanckianJitter)/[AlbumentationX](https://github.com/albumentations-team/AlbumentationsX)|
 
 ## 2. Control
 
