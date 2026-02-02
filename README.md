@@ -15,7 +15,11 @@ This repo consists of collected materials for a preliminary deep learning approa
 
 ## 3. Robotic technique
 
+### 3.1. Robotic Arm
+
+- [Robotic Arm Singularity Analysis and Avoidance Methods](https://develop.realman-robotics.com/en/blog/arm/roboticSingularity/).
+
 ## 4. Applications
 
-### a. Theory - [Grasping manipulation (MIT)](https://manipulation.csail.mit.edu/clutter.html) 
+### 4.1. Theory - [Grasping manipulation (MIT)](https://manipulation.csail.mit.edu/clutter.html) 
 
